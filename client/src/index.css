@@ -1,5 +1,9 @@
 #root {
     background-image: url("./images/bg.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
     
   }
 
@@ -7,4 +11,8 @@
       border-color: #35BA1E;
       background-color: #1DB954;
       
+  }
+
+  .ml-5 {
+      margin-left: 1%;
   }
